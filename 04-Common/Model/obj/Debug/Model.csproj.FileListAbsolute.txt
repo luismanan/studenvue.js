@@ -1,0 +1,100 @@
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\04-Common\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\04. CodeFirst\AnexUniv\04-Common\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\05. Audity, SoftDeleted\AnexUniv\04-Common\Model\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\06. Nuevo usuario\AnexUniv\04-Common\Model\obj\Debug\Model.pdb
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Model.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Model.pdb
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Common.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\LightInject.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Common.pdb
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.xml
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\LightInject.pdb
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\bin\Debug\LightInject.xml
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\obj\Debug\Model.dll
+C:\Users\Luis Manan\Downloads\AnexUniv\AnexUniv\04-Common\Model\obj\Debug\Model.pdb
